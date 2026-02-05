@@ -1,6 +1,6 @@
 # Biopython
 Biopython Project Description
-This project is a mini automated bioinformatics pipeline developed using Python and BioPython.
+This project is a mini Computational Sequence Analysis of the Human GSK3A Protein Using Biopython.
 It performs end-to-end biological sequence analysis starting from sequence input to BLAST result interpretation.
 The pipeline is designed in a modular format, where each step is implemented as a separate Python script and later integrated as a complete workflow.
 
