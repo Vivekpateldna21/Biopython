@@ -1,0 +1,1441 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<!DOCTYPE BlastOutput PUBLIC "-//NCBI//NCBI BlastOutput/EN" "http://www.ncbi.nlm.nih.gov/dtd/NCBI_BlastOutput.dtd">
+<BlastOutput>
+  <BlastOutput_program>blastp</BlastOutput_program>
+  <BlastOutput_version>BLASTP 2.17.0+</BlastOutput_version>
+  <BlastOutput_reference>Stephen F. Altschul, Thomas L. Madden, Alejandro A. Sch&amp;auml;ffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), &quot;Gapped BLAST and PSI-BLAST: a new generation of protein database search programs&quot;, Nucleic Acids Res. 25:3389-3402.</BlastOutput_reference>
+  <BlastOutput_db>nr</BlastOutput_db>
+  <BlastOutput_query-ID>Query_2777535</BlastOutput_query-ID>
+  <BlastOutput_query-def>unnamed protein product</BlastOutput_query-def>
+  <BlastOutput_query-len>139</BlastOutput_query-len>
+  <BlastOutput_param>
+    <Parameters>
+      <Parameters_matrix>BLOSUM62</Parameters_matrix>
+      <Parameters_expect>10</Parameters_expect>
+      <Parameters_gap-open>11</Parameters_gap-open>
+      <Parameters_gap-extend>1</Parameters_gap-extend>
+      <Parameters_filter>F</Parameters_filter>
+    </Parameters>
+  </BlastOutput_param>
+<BlastOutput_iterations>
+<Iteration>
+  <Iteration_iter-num>1</Iteration_iter-num>
+  <Iteration_query-ID>Query_2777535</Iteration_query-ID>
+  <Iteration_query-def>unnamed protein product</Iteration_query-def>
+  <Iteration_query-len>139</Iteration_query-len>
+<Iteration_hits>
+<Hit>
+  <Hit_num>1</Hit_num>
+  <Hit_id>ref|NP_001181120.1|</Hit_id>
+  <Hit_def>GSK3B-interacting protein [Macaca mulatta] &gt;ref|NP_001229499.1| GSK3B-interacting protein [Pan troglodytes] &gt;ref|NP_001258833.1| GSK3B-interacting protein [Homo sapiens] &gt;ref|NP_001258834.1| GSK3B-interacting protein [Homo sapiens] &gt;ref|NP_001258835.1| GSK3B-interacting protein [Homo sapiens] &gt;ref|NP_057556.2| GSK3B-interacting protein [Homo sapiens] &gt;ref|XP_002825131.1| GSK3B-interacting protein [Pongo abelii] &gt;ref|XP_003275410.1| GSK3B-interacting protein [Nomascus leucogenys] &gt;ref|XP_007985954.1| GSK3B-interacting protein [Chlorocebus sabaeus] &gt;ref|XP_007985955.1| GSK3B-interacting protein [Chlorocebus sabaeus] &gt;ref|XP_009247743.1| GSK3B-interacting protein [Pongo abelii] &gt;ref|XP_009426657.1| GSK3B-interacting protein isoform X1 [Pan troglodytes] &gt;ref|XP_011715363.1| GSK3B-interacting protein [Macaca nemestrina] &gt;ref|XP_011715364.1| GSK3B-interacting protein [Macaca nemestrina] &gt;ref|XP_011715365.1| GSK3B-interacting protein [Macaca nemestrina] &gt;ref|XP_011806881.1| PREDICTED: GSK3-beta interaction protein [Colobus angolensis palliatus] &gt;ref|XP_011806882.1| PREDICTED: GSK3-beta interaction protein [Colobus angolensis palliatus] &gt;ref|XP_011806883.1| PREDICTED: GSK3-beta interaction protein [Colobus angolensis palliatus] &gt;ref|XP_011847050.1| PREDICTED: GSK3-beta interaction protein isoform X2 [Mandrillus leucophaeus] &gt;ref|XP_011847051.1| PREDICTED: GSK3-beta interaction protein isoform X2 [Mandrillus leucophaeus] &gt;ref|XP_011939275.1| PREDICTED: GSK3-beta interaction protein [Cercocebus atys] &gt;ref|XP_011939276.1| PREDICTED: GSK3-beta interaction protein [Cercocebus atys] &gt;ref|XP_011939277.1| PREDICTED: GSK3-beta interaction protein [Cercocebus atys] &gt;ref|XP_011939278.1| PREDICTED: GSK3-beta interaction protein [Cercocebus atys] &gt;ref|XP_011939279.1| PREDICTED: GSK3-beta interaction protein [Cercocebus atys] &gt;ref|XP_011939280.1| PREDICTED: GSK3-beta interaction protein [Cercocebus atys] &gt;ref|XP_016781257.1| GSK3B-interacting protein isoform X1 [Pan troglodytes] &gt;ref|XP_018865755.1| GSK3B-interacting protein [Gorilla gorilla gorilla] &gt;ref|XP_023061351.1| GSK3B-interacting protein [Piliocolobus tephrosceles] &gt;ref|XP_023061352.1| GSK3B-interacting protein [Piliocolobus tephrosceles] &gt;ref|XP_025248466.1| GSK3B-interacting protein isoform X1 [Theropithecus gelada] &gt;ref|XP_025248467.1| GSK3B-interacting protein isoform X1 [Theropithecus gelada] &gt;ref|XP_025248468.1| GSK3B-interacting protein isoform X1 [Theropithecus gelada] &gt;ref|XP_025248469.1| GSK3B-interacting protein isoform X1 [Theropithecus gelada] &gt;ref|XP_030787441.1| GSK3B-interacting protein [Rhinopithecus roxellana] &gt;ref|XP_030787442.1| GSK3B-interacting protein [Rhinopithecus roxellana] &gt;ref|XP_030857832.1| GSK3B-interacting protein [Gorilla gorilla gorilla] &gt;ref|XP_032036106.1| GSK3B-interacting protein [Hylobates moloch] &gt;ref|XP_033047306.1| GSK3B-interacting protein [Trachypithecus francoisi] &gt;ref|XP_033047308.1| GSK3B-interacting protein [Trachypithecus francoisi] &gt;ref|XP_033047309.1| GSK3B-interacting protein [Trachypithecus francoisi] &gt;ref|XP_034793976.1| GSK3B-interacting protein [Pan paniscus] &gt;ref|XP_045252875.1| GSK3-beta interaction protein [Macaca fascicularis] &gt;ref|XP_050655149.1| GSK3B-interacting protein [Macaca thibetana thibetana] &gt;ref|XP_050655150.1| GSK3B-interacting protein [Macaca thibetana thibetana] &gt;ref|XP_054303927.1| GSK3B-interacting protein [Pongo pygmaeus] &gt;ref|XP_055144227.1| GSK3B-interacting protein [Symphalangus syndactylus] &gt;ref|XP_055144228.1| GSK3B-interacting protein [Symphalangus syndactylus] &gt;ref|XP_055144230.1| GSK3B-interacting protein [Symphalangus syndactylus] &gt;ref|XP_058285840.1| GSK3B-interacting protein [Hylobates moloch] &gt;ref|XP_058285841.1| GSK3B-interacting protein [Hylobates moloch] &gt;ref|XP_063501559.1| GSK3B-interacting protein [Symphalangus syndactylus] &gt;ref|XP_065405413.1| GSK3-beta interaction protein [Macaca fascicularis] &gt;ref|XP_065405414.1| GSK3-beta interaction protein [Macaca fascicularis] &gt;sp|Q9P0R6.2| RecName: Full=GSK3B-interacting protein; Short=GSKIP; AltName: Full=GSK3beta interaction protein [Homo sapiens] &gt;pdb|1SGO|A Chain A, Protein C14orf129 [Homo sapiens] &gt;gb|AIC51518.1| C14orf129, partial [synthetic construct] &gt;gb|KAL4665082.1| hypothetical protein H8957_012501 [Semnopithecus entellus] &gt;gb|KAL4692368.1| hypothetical protein H8959_016178 [Pygathrix nigripes] &gt;gb|KAL4832362.1| hypothetical protein H8958_000484 [Nasalis larvatus] &gt;emb|SJX26970.1| unnamed protein product, partial [Human ORFeome Gateway entry vector]</Hit_def>
+  <Hit_accession>NP_001181120</Hit_accession>
+  <Hit_len>139</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>288.115</Hsp_bit-score>
+      <Hsp_score>736</Hsp_score>
+      <Hsp_evalue>1.05116e-97</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>139</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>139</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>139</Hsp_identity>
+      <Hsp_positive>139</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>139</Hsp_align-len>
+      <Hsp_qseq>METDCNPMELSSMSGFEEGSELNGFEGTDMKDMRLEAEAVVNDVLFAVNNMFVSKSLRCADDVAYINVETKERNRYCLELTEAGLKVVGYAFDQVDDHLQTPYHETVYSLLDTLSPAYREAFGNALLQRLEALKRDGQS</Hsp_qseq>
+      <Hsp_hseq>METDCNPMELSSMSGFEEGSELNGFEGTDMKDMRLEAEAVVNDVLFAVNNMFVSKSLRCADDVAYINVETKERNRYCLELTEAGLKVVGYAFDQVDDHLQTPYHETVYSLLDTLSPAYREAFGNALLQRLEALKRDGQS</Hsp_hseq>
+      <Hsp_midline>METDCNPMELSSMSGFEEGSELNGFEGTDMKDMRLEAEAVVNDVLFAVNNMFVSKSLRCADDVAYINVETKERNRYCLELTEAGLKVVGYAFDQVDDHLQTPYHETVYSLLDTLSPAYREAFGNALLQRLEALKRDGQS</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>2</Hit_num>
+  <Hit_id>ref|XP_011847049.1|</Hit_id>
+  <Hit_def>PREDICTED: GSK3-beta interaction protein isoform X1 [Mandrillus leucophaeus] &gt;ref|XP_025248470.1| GSK3B-interacting protein isoform X2 [Theropithecus gelada]</Hit_def>
+  <Hit_accession>XP_011847049</Hit_accession>
+  <Hit_len>144</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>287.73</Hsp_bit-score>
+      <Hsp_score>735</Hsp_score>
+      <Hsp_evalue>1.65852e-97</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>139</Hsp_query-to>
+      <Hsp_hit-from>6</Hsp_hit-from>
+      <Hsp_hit-to>144</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>139</Hsp_identity>
+      <Hsp_positive>139</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>139</Hsp_align-len>
+      <Hsp_qseq>METDCNPMELSSMSGFEEGSELNGFEGTDMKDMRLEAEAVVNDVLFAVNNMFVSKSLRCADDVAYINVETKERNRYCLELTEAGLKVVGYAFDQVDDHLQTPYHETVYSLLDTLSPAYREAFGNALLQRLEALKRDGQS</Hsp_qseq>
+      <Hsp_hseq>METDCNPMELSSMSGFEEGSELNGFEGTDMKDMRLEAEAVVNDVLFAVNNMFVSKSLRCADDVAYINVETKERNRYCLELTEAGLKVVGYAFDQVDDHLQTPYHETVYSLLDTLSPAYREAFGNALLQRLEALKRDGQS</Hsp_hseq>
+      <Hsp_midline>METDCNPMELSSMSGFEEGSELNGFEGTDMKDMRLEAEAVVNDVLFAVNNMFVSKSLRCADDVAYINVETKERNRYCLELTEAGLKVVGYAFDQVDDHLQTPYHETVYSLLDTLSPAYREAFGNALLQRLEALKRDGQS</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>3</Hit_num>
+  <Hit_id>ref|XP_017383663.1|</Hit_id>
+  <Hit_def>GSK3B-interacting protein [Cebus imitator] &gt;ref|XP_032143378.1| GSK3B-interacting protein [Sapajus apella] &gt;ref|XP_032143379.1| GSK3B-interacting protein [Sapajus apella]</Hit_def>
+  <Hit_accession>XP_017383663</Hit_accession>
+  <Hit_len>139</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>286.96</Hsp_bit-score>
+      <Hsp_score>733</Hsp_score>
+      <Hsp_evalue>2.76176e-97</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>139</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>139</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>138</Hsp_identity>
+      <Hsp_positive>139</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>139</Hsp_align-len>
+      <Hsp_qseq>METDCNPMELSSMSGFEEGSELNGFEGTDMKDMRLEAEAVVNDVLFAVNNMFVSKSLRCADDVAYINVETKERNRYCLELTEAGLKVVGYAFDQVDDHLQTPYHETVYSLLDTLSPAYREAFGNALLQRLEALKRDGQS</Hsp_qseq>
+      <Hsp_hseq>METDCNPMELSSMAGFEEGSELNGFEGTDMKDMRLEAEAVVNDVLFAVNNMFVSKSLRCADDVAYINVETKERNRYCLELTEAGLKVVGYAFDQVDDHLQTPYHETVYSLLDTLSPAYREAFGNALLQRLEALKRDGQS</Hsp_hseq>
+      <Hsp_midline>METDCNPMELSSM+GFEEGSELNGFEGTDMKDMRLEAEAVVNDVLFAVNNMFVSKSLRCADDVAYINVETKERNRYCLELTEAGLKVVGYAFDQVDDHLQTPYHETVYSLLDTLSPAYREAFGNALLQRLEALKRDGQS</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>4</Hit_num>
+  <Hit_id>ref|XP_047393200.1|</Hit_id>
+  <Hit_def>GSK3B-interacting protein [Sciurus carolinensis]</Hit_def>
+  <Hit_accession>XP_047393200</Hit_accession>
+  <Hit_len>139</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>286.96</Hsp_bit-score>
+      <Hsp_score>733</Hsp_score>
+      <Hsp_evalue>3.1506e-97</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>139</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>139</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>138</Hsp_identity>
+      <Hsp_positive>139</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>139</Hsp_align-len>
+      <Hsp_qseq>METDCNPMELSSMSGFEEGSELNGFEGTDMKDMRLEAEAVVNDVLFAVNNMFVSKSLRCADDVAYINVETKERNRYCLELTEAGLKVVGYAFDQVDDHLQTPYHETVYSLLDTLSPAYREAFGNALLQRLEALKRDGQS</Hsp_qseq>
+      <Hsp_hseq>METDCNPMELSSMSGFEEGSELNGFEGTDMKDMRLEAEAVVNDVLFAVNNMFVSKSLRCADDVAYINVETKERNRYCLELTEAGLRVVGYAFDQVDDHLQTPYHETVYSLLDTLSPAYREAFGNALLQRLEALKRDGQS</Hsp_hseq>
+      <Hsp_midline>METDCNPMELSSMSGFEEGSELNGFEGTDMKDMRLEAEAVVNDVLFAVNNMFVSKSLRCADDVAYINVETKERNRYCLELTEAGL+VVGYAFDQVDDHLQTPYHETVYSLLDTLSPAYREAFGNALLQRLEALKRDGQS</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>5</Hit_num>
+  <Hit_id>ref|XP_003902299.2|</Hit_id>
+  <Hit_def>GSK3B-interacting protein [Papio anubis] &gt;ref|XP_009210481.1| GSK3B-interacting protein [Papio anubis] &gt;ref|XP_009210482.1| GSK3B-interacting protein [Papio anubis]</Hit_def>
+  <Hit_accession>XP_003902299</Hit_accession>
+  <Hit_len>139</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>286.574</Hsp_bit-score>
+      <Hsp_score>732</Hsp_score>
+      <Hsp_evalue>4.33154e-97</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>139</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>139</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>138</Hsp_identity>
+      <Hsp_positive>139</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>139</Hsp_align-len>
+      <Hsp_qseq>METDCNPMELSSMSGFEEGSELNGFEGTDMKDMRLEAEAVVNDVLFAVNNMFVSKSLRCADDVAYINVETKERNRYCLELTEAGLKVVGYAFDQVDDHLQTPYHETVYSLLDTLSPAYREAFGNALLQRLEALKRDGQS</Hsp_qseq>
+      <Hsp_hseq>METDCNPVELSSMSGFEEGSELNGFEGTDMKDMRLEAEAVVNDVLFAVNNMFVSKSLRCADDVAYINVETKERNRYCLELTEAGLKVVGYAFDQVDDHLQTPYHETVYSLLDTLSPAYREAFGNALLQRLEALKRDGQS</Hsp_hseq>
+      <Hsp_midline>METDCNP+ELSSMSGFEEGSELNGFEGTDMKDMRLEAEAVVNDVLFAVNNMFVSKSLRCADDVAYINVETKERNRYCLELTEAGLKVVGYAFDQVDDHLQTPYHETVYSLLDTLSPAYREAFGNALLQRLEALKRDGQS</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>6</Hit_num>
+  <Hit_id>ref|XP_003928888.2|</Hit_id>
+  <Hit_def>GSK3B-interacting protein [Saimiri boliviensis] &gt;ref|XP_010337775.2| GSK3B-interacting protein [Saimiri boliviensis] &gt;ref|XP_074249674.1| GSK3B-interacting protein [Saimiri boliviensis] &gt;ref|XP_074249675.1| GSK3B-interacting protein [Saimiri boliviensis]</Hit_def>
+  <Hit_accession>XP_003928888</Hit_accession>
+  <Hit_len>139</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>285.804</Hsp_bit-score>
+      <Hsp_score>730</Hsp_score>
+      <Hsp_evalue>9.75918e-97</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>139</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>139</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>137</Hsp_identity>
+      <Hsp_positive>139</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>139</Hsp_align-len>
+      <Hsp_qseq>METDCNPMELSSMSGFEEGSELNGFEGTDMKDMRLEAEAVVNDVLFAVNNMFVSKSLRCADDVAYINVETKERNRYCLELTEAGLKVVGYAFDQVDDHLQTPYHETVYSLLDTLSPAYREAFGNALLQRLEALKRDGQS</Hsp_qseq>
+      <Hsp_hseq>METDCNPMELSSMAGFEDGSELNGFEGTDMKDMRLEAEAVVNDVLFAVNNMFVSKSLRCADDVAYINVETKERNRYCLELTEAGLKVVGYAFDQVDDHLQTPYHETVYSLLDTLSPAYREAFGNALLQRLEALKRDGQS</Hsp_hseq>
+      <Hsp_midline>METDCNPMELSSM+GFE+GSELNGFEGTDMKDMRLEAEAVVNDVLFAVNNMFVSKSLRCADDVAYINVETKERNRYCLELTEAGLKVVGYAFDQVDDHLQTPYHETVYSLLDTLSPAYREAFGNALLQRLEALKRDGQS</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>7</Hit_num>
+  <Hit_id>sp|Q4R812.1|</Hit_id>
+  <Hit_def>RecName: Full=GSK3-beta interaction protein; Short=GSKIP [Macaca fascicularis] &gt;gb|EHH63875.1| hypothetical protein EGM_16934 [Macaca fascicularis] &gt;dbj|BAE00760.1| unnamed protein product [Macaca fascicularis]</Hit_def>
+  <Hit_accession>Q4R812</Hit_accession>
+  <Hit_len>139</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>285.419</Hsp_bit-score>
+      <Hsp_score>729</Hsp_score>
+      <Hsp_evalue>1.43306e-96</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>139</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>139</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>138</Hsp_identity>
+      <Hsp_positive>138</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>139</Hsp_align-len>
+      <Hsp_qseq>METDCNPMELSSMSGFEEGSELNGFEGTDMKDMRLEAEAVVNDVLFAVNNMFVSKSLRCADDVAYINVETKERNRYCLELTEAGLKVVGYAFDQVDDHLQTPYHETVYSLLDTLSPAYREAFGNALLQRLEALKRDGQS</Hsp_qseq>
+      <Hsp_hseq>METDCNPMELSSMSGFEEGSELNGFEGTDMKDMRLEAEAVVNDVLFAVNNMFVSKSLRCADDVAYINVETKERNRYCLELTEAGLKVVGYDFDQVDDHLQTPYHETVYSLLDTLSPAYREAFGNALLQRLEALKRDGQS</Hsp_hseq>
+      <Hsp_midline>METDCNPMELSSMSGFEEGSELNGFEGTDMKDMRLEAEAVVNDVLFAVNNMFVSKSLRCADDVAYINVETKERNRYCLELTEAGLKVVGY FDQVDDHLQTPYHETVYSLLDTLSPAYREAFGNALLQRLEALKRDGQS</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>8</Hit_num>
+  <Hit_id>ref|XP_012658975.2|</Hit_id>
+  <Hit_def>GSK3B-interacting protein [Otolemur garnettii] &gt;ref|XP_053458871.1| GSK3B-interacting protein [Nycticebus coucang] &gt;ref|XP_053458872.1| GSK3B-interacting protein [Nycticebus coucang] &gt;ref|XP_053458873.1| GSK3B-interacting protein [Nycticebus coucang]</Hit_def>
+  <Hit_accession>XP_012658975</Hit_accession>
+  <Hit_len>139</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>285.419</Hsp_bit-score>
+      <Hsp_score>729</Hsp_score>
+      <Hsp_evalue>1.44887e-96</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>139</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>139</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>137</Hsp_identity>
+      <Hsp_positive>139</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>139</Hsp_align-len>
+      <Hsp_qseq>METDCNPMELSSMSGFEEGSELNGFEGTDMKDMRLEAEAVVNDVLFAVNNMFVSKSLRCADDVAYINVETKERNRYCLELTEAGLKVVGYAFDQVDDHLQTPYHETVYSLLDTLSPAYREAFGNALLQRLEALKRDGQS</Hsp_qseq>
+      <Hsp_hseq>METDCNPMELSSMSGYEEGSELNGFEGTDVKDMRLEAEAVVNDVLFAVNNMFVSKSLRCADDVAYINVETKERNRYCLELTEAGLKVVGYAFDQVDDHLQTPYHETVYSLLDTLSPAYREAFGNALLQRLEALKRDGQS</Hsp_hseq>
+      <Hsp_midline>METDCNPMELSSMSG+EEGSELNGFEGTD+KDMRLEAEAVVNDVLFAVNNMFVSKSLRCADDVAYINVETKERNRYCLELTEAGLKVVGYAFDQVDDHLQTPYHETVYSLLDTLSPAYREAFGNALLQRLEALKRDGQS</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>9</Hit_num>
+  <Hit_id>ref|XP_012505557.1|</Hit_id>
+  <Hit_def>PREDICTED: GSK3-beta interaction protein [Propithecus coquereli] &gt;ref|XP_012505558.1| PREDICTED: GSK3-beta interaction protein [Propithecus coquereli] &gt;ref|XP_012505559.1| PREDICTED: GSK3-beta interaction protein [Propithecus coquereli] &gt;ref|XP_012646506.1| GSK3B-interacting protein [Microcebus murinus]</Hit_def>
+  <Hit_accession>XP_012505557</Hit_accession>
+  <Hit_len>139</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>285.034</Hsp_bit-score>
+      <Hsp_score>728</Hsp_score>
+      <Hsp_evalue>1.53062e-96</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>139</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>139</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>137</Hsp_identity>
+      <Hsp_positive>139</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>139</Hsp_align-len>
+      <Hsp_qseq>METDCNPMELSSMSGFEEGSELNGFEGTDMKDMRLEAEAVVNDVLFAVNNMFVSKSLRCADDVAYINVETKERNRYCLELTEAGLKVVGYAFDQVDDHLQTPYHETVYSLLDTLSPAYREAFGNALLQRLEALKRDGQS</Hsp_qseq>
+      <Hsp_hseq>METDCNPMELSSMSGFEEGSDLNGFEGTDVKDMRLEAEAVVNDVLFAVNNMFVSKSLRCADDVAYINVETKERNRYCLELTEAGLKVVGYAFDQVDDHLQTPYHETVYSLLDTLSPAYREAFGNALLQRLEALKRDGQS</Hsp_hseq>
+      <Hsp_midline>METDCNPMELSSMSGFEEGS+LNGFEGTD+KDMRLEAEAVVNDVLFAVNNMFVSKSLRCADDVAYINVETKERNRYCLELTEAGLKVVGYAFDQVDDHLQTPYHETVYSLLDTLSPAYREAFGNALLQRLEALKRDGQS</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>10</Hit_num>
+  <Hit_id>dbj|BAA91380.1|</Hit_id>
+  <Hit_def>unnamed protein product [Homo sapiens]</Hit_def>
+  <Hit_accession>BAA91380</Hit_accession>
+  <Hit_len>139</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>285.034</Hsp_bit-score>
+      <Hsp_score>728</Hsp_score>
+      <Hsp_evalue>1.6711e-96</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>139</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>139</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>138</Hsp_identity>
+      <Hsp_positive>138</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>139</Hsp_align-len>
+      <Hsp_qseq>METDCNPMELSSMSGFEEGSELNGFEGTDMKDMRLEAEAVVNDVLFAVNNMFVSKSLRCADDVAYINVETKERNRYCLELTEAGLKVVGYAFDQVDDHLQTPYHETVYSLLDTLSPAYREAFGNALLQRLEALKRDGQS</Hsp_qseq>
+      <Hsp_hseq>METDCNPMELSSMSGFEEGSELNGFEGTDMKDMRLEAEAVVNDVLSAVNNMFVSKSLRCADDVAYINVETKERNRYCLELTEAGLKVVGYAFDQVDDHLQTPYHETVYSLLDTLSPAYREAFGNALLQRLEALKRDGQS</Hsp_hseq>
+      <Hsp_midline>METDCNPMELSSMSGFEEGSELNGFEGTDMKDMRLEAEAVVNDVL AVNNMFVSKSLRCADDVAYINVETKERNRYCLELTEAGLKVVGYAFDQVDDHLQTPYHETVYSLLDTLSPAYREAFGNALLQRLEALKRDGQS</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>11</Hit_num>
+  <Hit_id>ref|XP_012326693.2|</Hit_id>
+  <Hit_def>GSK3B-interacting protein [Aotus nancymaae] &gt;ref|XP_012326695.2| GSK3B-interacting protein [Aotus nancymaae]</Hit_def>
+  <Hit_accession>XP_012326693</Hit_accession>
+  <Hit_len>139</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>285.034</Hsp_bit-score>
+      <Hsp_score>728</Hsp_score>
+      <Hsp_evalue>1.70819e-96</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>139</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>139</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>137</Hsp_identity>
+      <Hsp_positive>138</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>139</Hsp_align-len>
+      <Hsp_qseq>METDCNPMELSSMSGFEEGSELNGFEGTDMKDMRLEAEAVVNDVLFAVNNMFVSKSLRCADDVAYINVETKERNRYCLELTEAGLKVVGYAFDQVDDHLQTPYHETVYSLLDTLSPAYREAFGNALLQRLEALKRDGQS</Hsp_qseq>
+      <Hsp_hseq>METDCNPMELSSMAGFEEGSELNGFEGADMKDMRLEAEAVVNDVLFAVNNMFVSKSLRCADDVAYINVETKERNRYCLELTEAGLKVVGYAFDQVDDHLQTPYHETVYSLLDTLSPAYREAFGNALLQRLEALKRDGQS</Hsp_hseq>
+      <Hsp_midline>METDCNPMELSSM+GFEEGSELNGFEG DMKDMRLEAEAVVNDVLFAVNNMFVSKSLRCADDVAYINVETKERNRYCLELTEAGLKVVGYAFDQVDDHLQTPYHETVYSLLDTLSPAYREAFGNALLQRLEALKRDGQS</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>12</Hit_num>
+  <Hit_id>ref|XP_027806719.1|</Hit_id>
+  <Hit_def>GSK3B-interacting protein isoform X2 [Marmota flaviventris] &gt;ref|XP_076704098.1| GSK3B-interacting protein [Callospermophilus lateralis] &gt;gb|KAF7464780.1| GSK3-beta interaction protein [Marmota monax] &gt;gb|KAI6055523.1| GSKIP [Marmota monax] &gt;gb|KAI6068599.1| GSKIP [Marmota monax] &gt;gb|KAM5177290.1| GSK3B-interacting protein [Callospermophilus lateralis]</Hit_def>
+  <Hit_accession>XP_027806719</Hit_accession>
+  <Hit_len>139</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>285.034</Hsp_bit-score>
+      <Hsp_score>728</Hsp_score>
+      <Hsp_evalue>1.72705e-96</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>139</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>139</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>137</Hsp_identity>
+      <Hsp_positive>139</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>139</Hsp_align-len>
+      <Hsp_qseq>METDCNPMELSSMSGFEEGSELNGFEGTDMKDMRLEAEAVVNDVLFAVNNMFVSKSLRCADDVAYINVETKERNRYCLELTEAGLKVVGYAFDQVDDHLQTPYHETVYSLLDTLSPAYREAFGNALLQRLEALKRDGQS</Hsp_qseq>
+      <Hsp_hseq>METDCNPMELSSMSGFEEGSELNGFEGTDMKDMRLEAEAVVNDVLFAVNNMFVSKSLRCADDVAYINVETKERNRYCLELTEAGLRVVGYAFDQVEDHLQTPYHETVYSLLDTLSPAYREAFGNALLQRLEALKRDGQS</Hsp_hseq>
+      <Hsp_midline>METDCNPMELSSMSGFEEGSELNGFEGTDMKDMRLEAEAVVNDVLFAVNNMFVSKSLRCADDVAYINVETKERNRYCLELTEAGL+VVGYAFDQV+DHLQTPYHETVYSLLDTLSPAYREAFGNALLQRLEALKRDGQS</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>13</Hit_num>
+  <Hit_id>ref|XP_002754309.1|</Hit_id>
+  <Hit_def>GSK3B-interacting protein isoform X2 [Callithrix jacchus] &gt;ref|XP_078191840.1| GSK3B-interacting protein isoform X2 [Callithrix jacchus] &gt;ref|XP_078191841.1| GSK3B-interacting protein isoform X2 [Callithrix jacchus]</Hit_def>
+  <Hit_accession>XP_002754309</Hit_accession>
+  <Hit_len>139</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>285.034</Hsp_bit-score>
+      <Hsp_score>728</Hsp_score>
+      <Hsp_evalue>1.76538e-96</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>139</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>139</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>137</Hsp_identity>
+      <Hsp_positive>138</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>139</Hsp_align-len>
+      <Hsp_qseq>METDCNPMELSSMSGFEEGSELNGFEGTDMKDMRLEAEAVVNDVLFAVNNMFVSKSLRCADDVAYINVETKERNRYCLELTEAGLKVVGYAFDQVDDHLQTPYHETVYSLLDTLSPAYREAFGNALLQRLEALKRDGQS</Hsp_qseq>
+      <Hsp_hseq>METDCNPMELSSMAGFEEGSELNGFEGTDMKDMRLEAEAVVNDVLFAVNKMFVSKSLRCADDVAYINVETKERNRYCLELTEAGLKVVGYAFDQVDDHLQTPYHETVYSLLDTLSPAYREAFGNALLQRLEALKRDGQS</Hsp_hseq>
+      <Hsp_midline>METDCNPMELSSM+GFEEGSELNGFEGTDMKDMRLEAEAVVNDVLFAVN MFVSKSLRCADDVAYINVETKERNRYCLELTEAGLKVVGYAFDQVDDHLQTPYHETVYSLLDTLSPAYREAFGNALLQRLEALKRDGQS</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>14</Hit_num>
+  <Hit_id>ref|XP_046296481.1|</Hit_id>
+  <Hit_def>GSK3B-interacting protein isoform X3 [Marmota monax] &gt;gb|KAF7464783.1| GSK3-beta interaction protein [Marmota monax]</Hit_def>
+  <Hit_accession>XP_046296481</Hit_accession>
+  <Hit_len>145</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>285.034</Hsp_bit-score>
+      <Hsp_score>728</Hsp_score>
+      <Hsp_evalue>1.8173e-96</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>139</Hsp_query-to>
+      <Hsp_hit-from>7</Hsp_hit-from>
+      <Hsp_hit-to>145</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>137</Hsp_identity>
+      <Hsp_positive>139</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>139</Hsp_align-len>
+      <Hsp_qseq>METDCNPMELSSMSGFEEGSELNGFEGTDMKDMRLEAEAVVNDVLFAVNNMFVSKSLRCADDVAYINVETKERNRYCLELTEAGLKVVGYAFDQVDDHLQTPYHETVYSLLDTLSPAYREAFGNALLQRLEALKRDGQS</Hsp_qseq>
+      <Hsp_hseq>METDCNPMELSSMSGFEEGSELNGFEGTDMKDMRLEAEAVVNDVLFAVNNMFVSKSLRCADDVAYINVETKERNRYCLELTEAGLRVVGYAFDQVEDHLQTPYHETVYSLLDTLSPAYREAFGNALLQRLEALKRDGQS</Hsp_hseq>
+      <Hsp_midline>METDCNPMELSSMSGFEEGSELNGFEGTDMKDMRLEAEAVVNDVLFAVNNMFVSKSLRCADDVAYINVETKERNRYCLELTEAGL+VVGYAFDQV+DHLQTPYHETVYSLLDTLSPAYREAFGNALLQRLEALKRDGQS</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>15</Hit_num>
+  <Hit_id>ref|XP_015350863.1|</Hit_id>
+  <Hit_def>GSK3B-interacting protein isoform X2 [Marmota marmota marmota]</Hit_def>
+  <Hit_accession>XP_015350863</Hit_accession>
+  <Hit_len>145</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>285.034</Hsp_bit-score>
+      <Hsp_score>728</Hsp_score>
+      <Hsp_evalue>2.19009e-96</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>139</Hsp_query-to>
+      <Hsp_hit-from>7</Hsp_hit-from>
+      <Hsp_hit-to>145</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>137</Hsp_identity>
+      <Hsp_positive>139</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>139</Hsp_align-len>
+      <Hsp_qseq>METDCNPMELSSMSGFEEGSELNGFEGTDMKDMRLEAEAVVNDVLFAVNNMFVSKSLRCADDVAYINVETKERNRYCLELTEAGLKVVGYAFDQVDDHLQTPYHETVYSLLDTLSPAYREAFGNALLQRLEALKRDGQS</Hsp_qseq>
+      <Hsp_hseq>METDCNPMELSSMSGFEEGSELNGFEGTDMKDMRLEAEAVVNDVLFAVNNMFVSKSLRCADDVAYINVETKERNRYCLELTEAGLRVVGYAFDQVEDHLQTPYHETVYSLLDTLSPAYREAFGNALLQRLEALKRDGQS</Hsp_hseq>
+      <Hsp_midline>METDCNPMELSSMSGFEEGSELNGFEGTDMKDMRLEAEAVVNDVLFAVNNMFVSKSLRCADDVAYINVETKERNRYCLELTEAGL+VVGYAFDQV+DHLQTPYHETVYSLLDTLSPAYREAFGNALLQRLEALKRDGQS</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>16</Hit_num>
+  <Hit_id>ref|XP_035117305.1|</Hit_id>
+  <Hit_def>GSK3B-interacting protein isoform X1 [Callithrix jacchus]</Hit_def>
+  <Hit_accession>XP_035117305</Hit_accession>
+  <Hit_len>166</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>285.419</Hsp_bit-score>
+      <Hsp_score>729</Hsp_score>
+      <Hsp_evalue>3.65091e-96</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>139</Hsp_query-to>
+      <Hsp_hit-from>28</Hsp_hit-from>
+      <Hsp_hit-to>166</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>137</Hsp_identity>
+      <Hsp_positive>138</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>139</Hsp_align-len>
+      <Hsp_qseq>METDCNPMELSSMSGFEEGSELNGFEGTDMKDMRLEAEAVVNDVLFAVNNMFVSKSLRCADDVAYINVETKERNRYCLELTEAGLKVVGYAFDQVDDHLQTPYHETVYSLLDTLSPAYREAFGNALLQRLEALKRDGQS</Hsp_qseq>
+      <Hsp_hseq>METDCNPMELSSMAGFEEGSELNGFEGTDMKDMRLEAEAVVNDVLFAVNKMFVSKSLRCADDVAYINVETKERNRYCLELTEAGLKVVGYAFDQVDDHLQTPYHETVYSLLDTLSPAYREAFGNALLQRLEALKRDGQS</Hsp_hseq>
+      <Hsp_midline>METDCNPMELSSM+GFEEGSELNGFEGTDMKDMRLEAEAVVNDVLFAVN MFVSKSLRCADDVAYINVETKERNRYCLELTEAGLKVVGYAFDQVDDHLQTPYHETVYSLLDTLSPAYREAFGNALLQRLEALKRDGQS</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>17</Hit_num>
+  <Hit_id>gb|KAL2789510.1|</Hit_id>
+  <Hit_def>GSK3B-interacting protein [Daubentonia madagascariensis] &gt;gb|KAL2789511.1| GSK3B-interacting protein [Daubentonia madagascariensis] &gt;gb|KAL2789512.1| GSK3B-interacting protein [Daubentonia madagascariensis] &gt;gb|KAL2789513.1| GSK3B-interacting protein [Daubentonia madagascariensis]</Hit_def>
+  <Hit_accession>KAL2789510</Hit_accession>
+  <Hit_len>139</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>283.878</Hsp_bit-score>
+      <Hsp_score>725</Hsp_score>
+      <Hsp_evalue>4.20184e-96</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>139</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>139</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>137</Hsp_identity>
+      <Hsp_positive>138</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>139</Hsp_align-len>
+      <Hsp_qseq>METDCNPMELSSMSGFEEGSELNGFEGTDMKDMRLEAEAVVNDVLFAVNNMFVSKSLRCADDVAYINVETKERNRYCLELTEAGLKVVGYAFDQVDDHLQTPYHETVYSLLDTLSPAYREAFGNALLQRLEALKRDGQS</Hsp_qseq>
+      <Hsp_hseq>METDCNPMELSSMSGFEENSELNGFEGTDVKDMRLEAEAVVNDVLFAVNNMFVSKSLRCADDVAYINVETKERNRYCLELTEAGLKVVGYAFDQVDDHLQTPYHETVYSLLDTLSPAYREAFGNALLQRLEALKRDGQS</Hsp_hseq>
+      <Hsp_midline>METDCNPMELSSMSGFEE SELNGFEGTD+KDMRLEAEAVVNDVLFAVNNMFVSKSLRCADDVAYINVETKERNRYCLELTEAGLKVVGYAFDQVDDHLQTPYHETVYSLLDTLSPAYREAFGNALLQRLEALKRDGQS</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>18</Hit_num>
+  <Hit_id>ref|XP_005333954.1|</Hit_id>
+  <Hit_def>GSK3B-interacting protein [Ictidomys tridecemlineatus] &gt;ref|XP_026255204.1| GSK3B-interacting protein [Urocitellus parryii] &gt;ref|XP_077656011.1| GSK3B-interacting protein [Urocitellus parryii] &gt;ref|XP_077656012.1| GSK3B-interacting protein [Urocitellus parryii] &gt;ref|XP_077906955.1| GSK3B-interacting protein [Ictidomys tridecemlineatus] &gt;gb|KAG3260415.1| GSK3B interacting protein [Ictidomys tridecemlineatus] &gt;gb|KAM4832984.1| GSK3B-interacting protein isoform 1-T1 [Urocitellus parryii] &gt;gb|KAM4832985.1| GSK3B-interacting protein isoform 1-T2 [Urocitellus parryii] &gt;gb|KAM4832986.1| GSK3B-interacting protein isoform 1-T3 [Urocitellus parryii]</Hit_def>
+  <Hit_accession>XP_005333954</Hit_accession>
+  <Hit_len>139</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>283.493</Hsp_bit-score>
+      <Hsp_score>724</Hsp_score>
+      <Hsp_evalue>6.10268e-96</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>139</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>139</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>136</Hsp_identity>
+      <Hsp_positive>139</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>139</Hsp_align-len>
+      <Hsp_qseq>METDCNPMELSSMSGFEEGSELNGFEGTDMKDMRLEAEAVVNDVLFAVNNMFVSKSLRCADDVAYINVETKERNRYCLELTEAGLKVVGYAFDQVDDHLQTPYHETVYSLLDTLSPAYREAFGNALLQRLEALKRDGQS</Hsp_qseq>
+      <Hsp_hseq>METDCNPMELSSLSGFEEGSELNGFEGTDMKDMRLEAEAVVNDVLFAVNNMFVSKSLRCADDVAYINVETKERNRYCLELTEAGLRVVGYAFDQVEDHLQTPYHETVYSLLDTLSPAYREAFGNALLQRLEALKRDGQS</Hsp_hseq>
+      <Hsp_midline>METDCNPMELSS+SGFEEGSELNGFEGTDMKDMRLEAEAVVNDVLFAVNNMFVSKSLRCADDVAYINVETKERNRYCLELTEAGL+VVGYAFDQV+DHLQTPYHETVYSLLDTLSPAYREAFGNALLQRLEALKRDGQS</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>19</Hit_num>
+  <Hit_id>emb|VTJ64955.1|</Hit_id>
+  <Hit_def>Hypothetical predicted protein [Marmota monax]</Hit_def>
+  <Hit_accession>VTJ64955</Hit_accession>
+  <Hit_len>139</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>282.722</Hsp_bit-score>
+      <Hsp_score>722</Hsp_score>
+      <Hsp_evalue>1.30151e-95</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>139</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>139</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>136</Hsp_identity>
+      <Hsp_positive>138</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>139</Hsp_align-len>
+      <Hsp_qseq>METDCNPMELSSMSGFEEGSELNGFEGTDMKDMRLEAEAVVNDVLFAVNNMFVSKSLRCADDVAYINVETKERNRYCLELTEAGLKVVGYAFDQVDDHLQTPYHETVYSLLDTLSPAYREAFGNALLQRLEALKRDGQS</Hsp_qseq>
+      <Hsp_hseq>METDCNPMELSSMSGFEEGSELNGFEGTDMKDMRLEAEAVVNDVLFAVNNMFVSKSLHCADDVAYINVETKERNRYCLELTEAGLRVVGYAFDQVEDHLQTPYHETVYSLLDTLSPAYREAFGNALLQRLEALKRDGQS</Hsp_hseq>
+      <Hsp_midline>METDCNPMELSSMSGFEEGSELNGFEGTDMKDMRLEAEAVVNDVLFAVNNMFVSKSL CADDVAYINVETKERNRYCLELTEAGL+VVGYAFDQV+DHLQTPYHETVYSLLDTLSPAYREAFGNALLQRLEALKRDGQS</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>20</Hit_num>
+  <Hit_id>emb|VTJ64953.1|</Hit_id>
+  <Hit_def>Hypothetical predicted protein [Marmota monax]</Hit_def>
+  <Hit_accession>VTJ64953</Hit_accession>
+  <Hit_len>145</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>283.108</Hsp_bit-score>
+      <Hsp_score>723</Hsp_score>
+      <Hsp_evalue>1.41513e-95</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>139</Hsp_query-to>
+      <Hsp_hit-from>7</Hsp_hit-from>
+      <Hsp_hit-to>145</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>136</Hsp_identity>
+      <Hsp_positive>138</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>139</Hsp_align-len>
+      <Hsp_qseq>METDCNPMELSSMSGFEEGSELNGFEGTDMKDMRLEAEAVVNDVLFAVNNMFVSKSLRCADDVAYINVETKERNRYCLELTEAGLKVVGYAFDQVDDHLQTPYHETVYSLLDTLSPAYREAFGNALLQRLEALKRDGQS</Hsp_qseq>
+      <Hsp_hseq>METDCNPMELSSMSGFEEGSELNGFEGTDMKDMRLEAEAVVNDVLFAVNNMFVSKSLHCADDVAYINVETKERNRYCLELTEAGLRVVGYAFDQVEDHLQTPYHETVYSLLDTLSPAYREAFGNALLQRLEALKRDGQS</Hsp_hseq>
+      <Hsp_midline>METDCNPMELSSMSGFEEGSELNGFEGTDMKDMRLEAEAVVNDVLFAVNNMFVSKSL CADDVAYINVETKERNRYCLELTEAGL+VVGYAFDQV+DHLQTPYHETVYSLLDTLSPAYREAFGNALLQRLEALKRDGQS</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>21</Hit_num>
+  <Hit_id>ref|XP_006160026.1|</Hit_id>
+  <Hit_def>GSK3B-interacting protein [Tupaia chinensis]</Hit_def>
+  <Hit_accession>XP_006160026</Hit_accession>
+  <Hit_len>139</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>282.337</Hsp_bit-score>
+      <Hsp_score>721</Hsp_score>
+      <Hsp_evalue>1.91114e-95</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>139</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>139</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>135</Hsp_identity>
+      <Hsp_positive>138</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>139</Hsp_align-len>
+      <Hsp_qseq>METDCNPMELSSMSGFEEGSELNGFEGTDMKDMRLEAEAVVNDVLFAVNNMFVSKSLRCADDVAYINVETKERNRYCLELTEAGLKVVGYAFDQVDDHLQTPYHETVYSLLDTLSPAYREAFGNALLQRLEALKRDGQS</Hsp_qseq>
+      <Hsp_hseq>METDCNPMELSSMSGFEEGSELNGFEGTDMKDMRLEAEAVVNDVLFAVNTMFVSKTLRCADDVAYINVETKERNRYCLELTEAGLKVVGYAFDQVDDHLQTPYHETVYSLLDSLSPAYREAFGNALLQRLEALRRDGQS</Hsp_hseq>
+      <Hsp_midline>METDCNPMELSSMSGFEEGSELNGFEGTDMKDMRLEAEAVVNDVLFAVN MFVSK+LRCADDVAYINVETKERNRYCLELTEAGLKVVGYAFDQVDDHLQTPYHETVYSLLD+LSPAYREAFGNALLQRLEAL+RDGQS</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>22</Hit_num>
+  <Hit_id>ref|XP_008588708.1|</Hit_id>
+  <Hit_def>PREDICTED: GSK3-beta interaction protein [Galeopterus variegatus] &gt;ref|XP_062947289.1| GSK3B-interacting protein [Cynocephalus volans]</Hit_def>
+  <Hit_accession>XP_008588708</Hit_accession>
+  <Hit_len>139</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>281.952</Hsp_bit-score>
+      <Hsp_score>720</Hsp_score>
+      <Hsp_evalue>2.74538e-95</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>139</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>139</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>137</Hsp_identity>
+      <Hsp_positive>137</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>139</Hsp_align-len>
+      <Hsp_qseq>METDCNPMELSSMSGFEEGSELNGFEGTDMKDMRLEAEAVVNDVLFAVNNMFVSKSLRCADDVAYINVETKERNRYCLELTEAGLKVVGYAFDQVDDHLQTPYHETVYSLLDTLSPAYREAFGNALLQRLEALKRDGQS</Hsp_qseq>
+      <Hsp_hseq>METDYNPMELSSMSGFEEGSELNGFEGTDMKDMRLEAEAVVNDVLFAVNNMFVSKSLRCADDVAYINVETKERNRYCLELTEAGLKVVGYAFDQVDDHLQTPYHETVYSLLDTLSPAYREAFGNALLHRLEALKRDGQS</Hsp_hseq>
+      <Hsp_midline>METD NPMELSSMSGFEEGSELNGFEGTDMKDMRLEAEAVVNDVLFAVNNMFVSKSLRCADDVAYINVETKERNRYCLELTEAGLKVVGYAFDQVDDHLQTPYHETVYSLLDTLSPAYREAFGNALL RLEALKRDGQS</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>23</Hit_num>
+  <Hit_id>ref|XP_008046949.1|</Hit_id>
+  <Hit_def>GSK3-beta interaction protein [Carlito syrichta]</Hit_def>
+  <Hit_accession>XP_008046949</Hit_accession>
+  <Hit_len>139</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>281.567</Hsp_bit-score>
+      <Hsp_score>719</Hsp_score>
+      <Hsp_evalue>4.16627e-95</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>139</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>139</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>135</Hsp_identity>
+      <Hsp_positive>138</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>139</Hsp_align-len>
+      <Hsp_qseq>METDCNPMELSSMSGFEEGSELNGFEGTDMKDMRLEAEAVVNDVLFAVNNMFVSKSLRCADDVAYINVETKERNRYCLELTEAGLKVVGYAFDQVDDHLQTPYHETVYSLLDTLSPAYREAFGNALLQRLEALKRDGQS</Hsp_qseq>
+      <Hsp_hseq>METDCNPMELSSMAGFEEGSELNGFEGADMKDMRLEAEAVVNDVLFAVNSMFVSKSLRCADDVAYINVETKERNRYCLELTEAGLKVVGYAFDQVNDHLQTPYHETVYSLLDTLSPAYREAFGNALLQRLEALKRDGQS</Hsp_hseq>
+      <Hsp_midline>METDCNPMELSSM+GFEEGSELNGFEG DMKDMRLEAEAVVNDVLFAVN+MFVSKSLRCADDVAYINVETKERNRYCLELTEAGLKVVGYAFDQV+DHLQTPYHETVYSLLDTLSPAYREAFGNALLQRLEALKRDGQS</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>24</Hit_num>
+  <Hit_id>ref|XP_069321376.1|</Hit_id>
+  <Hit_def>GSK3B-interacting protein [Eulemur rufifrons] &gt;ref|XP_069321377.1| GSK3B-interacting protein [Eulemur rufifrons] &gt;ref|XP_069321378.1| GSK3B-interacting protein [Eulemur rufifrons]</Hit_def>
+  <Hit_accession>XP_069321376</Hit_accession>
+  <Hit_len>139</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>280.796</Hsp_bit-score>
+      <Hsp_score>717</Hsp_score>
+      <Hsp_evalue>8.31888e-95</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>139</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>139</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>136</Hsp_identity>
+      <Hsp_positive>138</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>139</Hsp_align-len>
+      <Hsp_qseq>METDCNPMELSSMSGFEEGSELNGFEGTDMKDMRLEAEAVVNDVLFAVNNMFVSKSLRCADDVAYINVETKERNRYCLELTEAGLKVVGYAFDQVDDHLQTPYHETVYSLLDTLSPAYREAFGNALLQRLEALKRDGQS</Hsp_qseq>
+      <Hsp_hseq>METDYNPMELSSMSGFEEGSDLNGFEGTDVKDMRLEAEAVVNDVLFAVNNMFVSKSLRCADDVAYINVETKERNRYCLELTEAGLKVVGYAFDQVDDHLQTPYHETVYSLLDTLSPAYREAFGNALLQRLEALKRDGQS</Hsp_hseq>
+      <Hsp_midline>METD NPMELSSMSGFEEGS+LNGFEGTD+KDMRLEAEAVVNDVLFAVNNMFVSKSLRCADDVAYINVETKERNRYCLELTEAGLKVVGYAFDQVDDHLQTPYHETVYSLLDTLSPAYREAFGNALLQRLEALKRDGQS</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>25</Hit_num>
+  <Hit_id>ref|XP_045417180.1|</Hit_id>
+  <Hit_def>GSK3B-interacting protein [Lemur catta] &gt;ref|XP_045417190.1| GSK3B-interacting protein [Lemur catta]</Hit_def>
+  <Hit_accession>XP_045417180</Hit_accession>
+  <Hit_len>139</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>278.87</Hsp_bit-score>
+      <Hsp_score>712</Hsp_score>
+      <Hsp_evalue>4.13075e-94</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>139</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>139</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>135</Hsp_identity>
+      <Hsp_positive>138</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>139</Hsp_align-len>
+      <Hsp_qseq>METDCNPMELSSMSGFEEGSELNGFEGTDMKDMRLEAEAVVNDVLFAVNNMFVSKSLRCADDVAYINVETKERNRYCLELTEAGLKVVGYAFDQVDDHLQTPYHETVYSLLDTLSPAYREAFGNALLQRLEALKRDGQS</Hsp_qseq>
+      <Hsp_hseq>METDYNPVELSSMSGFEEGSDLNGFEGTDVKDMRLEAEAVVNDVLFAVNNMFVSKSLRCADDVAYINVETKERNRYCLELTEAGLKVVGYAFDQVDDHLQTPYHETVYSLLDTLSPAYREAFGNALLQRLEALKRDGQS</Hsp_hseq>
+      <Hsp_midline>METD NP+ELSSMSGFEEGS+LNGFEGTD+KDMRLEAEAVVNDVLFAVNNMFVSKSLRCADDVAYINVETKERNRYCLELTEAGLKVVGYAFDQVDDHLQTPYHETVYSLLDTLSPAYREAFGNALLQRLEALKRDGQS</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>26</Hit_num>
+  <Hit_id>ref|XP_036122511.1|</Hit_id>
+  <Hit_def>GSK3B-interacting protein [Molossus molossus] &gt;ref|XP_036122521.1| GSK3B-interacting protein [Molossus molossus] &gt;ref|XP_036122530.1| GSK3B-interacting protein [Molossus molossus] &gt;ref|XP_036122539.1| GSK3B-interacting protein [Molossus molossus] &gt;gb|KAM7159557.1| GSK3B-interacting protein isoform 1-T1 [Molossus nigricans] &gt;gb|KAM7159558.1| GSK3B-interacting protein isoform 1-T2 [Molossus nigricans]</Hit_def>
+  <Hit_accession>XP_036122511</Hit_accession>
+  <Hit_len>139</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>278.485</Hsp_bit-score>
+      <Hsp_score>711</Hsp_score>
+      <Hsp_evalue>5.99931e-94</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>139</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>139</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>131</Hsp_identity>
+      <Hsp_positive>138</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>139</Hsp_align-len>
+      <Hsp_qseq>METDCNPMELSSMSGFEEGSELNGFEGTDMKDMRLEAEAVVNDVLFAVNNMFVSKSLRCADDVAYINVETKERNRYCLELTEAGLKVVGYAFDQVDDHLQTPYHETVYSLLDTLSPAYREAFGNALLQRLEALKRDGQS</Hsp_qseq>
+      <Hsp_hseq>METDCNPMELSSMSGFEENAEINGFEGTDMKDMKLEAEAVVNDVLFAVNNMFVSKTLRCADDVAYINVETRERNRYCLELTEAGLKIVGYAFDQVDDHLQTPYHETVYSLLDTLSPAYRDAFGNALLQRLEALKRDGQS</Hsp_hseq>
+      <Hsp_midline>METDCNPMELSSMSGFEE +E+NGFEGTDMKDM+LEAEAVVNDVLFAVNNMFVSK+LRCADDVAYINVET+ERNRYCLELTEAGLK+VGYAFDQVDDHLQTPYHETVYSLLDTLSPAYR+AFGNALLQRLEALKRDGQS</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>27</Hit_num>
+  <Hit_id>ref|XP_006971769.1|</Hit_id>
+  <Hit_def>GSK3B-interacting protein isoform X1 [Peromyscus maniculatus bairdii] &gt;ref|XP_028737909.1| GSK3B-interacting protein isoform X1 [Peromyscus leucopus]</Hit_def>
+  <Hit_accession>XP_006971769</Hit_accession>
+  <Hit_len>144</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>278.485</Hsp_bit-score>
+      <Hsp_score>711</Hsp_score>
+      <Hsp_evalue>7.43052e-94</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>139</Hsp_query-to>
+      <Hsp_hit-from>6</Hsp_hit-from>
+      <Hsp_hit-to>144</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>133</Hsp_identity>
+      <Hsp_positive>138</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>139</Hsp_align-len>
+      <Hsp_qseq>METDCNPMELSSMSGFEEGSELNGFEGTDMKDMRLEAEAVVNDVLFAVNNMFVSKSLRCADDVAYINVETKERNRYCLELTEAGLKVVGYAFDQVDDHLQTPYHETVYSLLDTLSPAYREAFGNALLQRLEALKRDGQS</Hsp_qseq>
+      <Hsp_hseq>MDTDCNPVELGSMSGFEEGSELNGFEGTDMKDMRLEAEAVVNDVLFAVNSMFVSKSLRCADDVAYINVETKERNRYCLELTEAGLRVVGYAFDQVEDHLQTPYHETVYSLLDTLSPAYREAFGNALLQRLEALKRDGQS</Hsp_hseq>
+      <Hsp_midline>M+TDCNP+EL SMSGFEEGSELNGFEGTDMKDMRLEAEAVVNDVLFAVN+MFVSKSLRCADDVAYINVETKERNRYCLELTEAGL+VVGYAFDQV+DHLQTPYHETVYSLLDTLSPAYREAFGNALLQRLEALKRDGQS</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>28</Hit_num>
+  <Hit_id>ref|XP_048218912.1|</Hit_id>
+  <Hit_def>GSK3B-interacting protein [Perognathus longimembris pacificus]</Hit_def>
+  <Hit_accession>XP_048218912</Hit_accession>
+  <Hit_len>139</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>278.485</Hsp_bit-score>
+      <Hsp_score>711</Hsp_score>
+      <Hsp_evalue>7.55447e-94</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>139</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>139</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>134</Hsp_identity>
+      <Hsp_positive>138</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>139</Hsp_align-len>
+      <Hsp_qseq>METDCNPMELSSMSGFEEGSELNGFEGTDMKDMRLEAEAVVNDVLFAVNNMFVSKSLRCADDVAYINVETKERNRYCLELTEAGLKVVGYAFDQVDDHLQTPYHETVYSLLDTLSPAYREAFGNALLQRLEALKRDGQS</Hsp_qseq>
+      <Hsp_hseq>METDCNPMELSSVSGFEDGSELNGFEGTDVKDMRLEAEAVVNDVLFAVNNMFVSKSLRCADDVAYINVETKERNRYCLELTEAGLRVVGYAFDQVDDDLQTPYHETVYSLLDTLSPAYREAFGNALLQRLEALKRDGQS</Hsp_hseq>
+      <Hsp_midline>METDCNPMELSS+SGFE+GSELNGFEGTD+KDMRLEAEAVVNDVLFAVNNMFVSKSLRCADDVAYINVETKERNRYCLELTEAGL+VVGYAFDQVDD LQTPYHETVYSLLDTLSPAYREAFGNALLQRLEALKRDGQS</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>29</Hit_num>
+  <Hit_id>ref|XP_015861424.1|</Hit_id>
+  <Hit_def>GSK3B-interacting protein isoform X2 [Peromyscus maniculatus bairdii] &gt;ref|XP_015861435.1| GSK3B-interacting protein isoform X2 [Peromyscus maniculatus bairdii] &gt;ref|XP_028737911.1| GSK3B-interacting protein isoform X2 [Peromyscus leucopus] &gt;ref|XP_028737912.1| GSK3B-interacting protein isoform X2 [Peromyscus leucopus] &gt;ref|XP_037066708.1| GSK3B-interacting protein isoform X2 [Peromyscus leucopus] &gt;ref|XP_037066709.1| GSK3B-interacting protein isoform X2 [Peromyscus leucopus] &gt;ref|XP_037066710.1| GSK3B-interacting protein isoform X2 [Peromyscus leucopus] &gt;ref|XP_042117070.1| GSK3B-interacting protein isoform X2 [Peromyscus maniculatus bairdii]</Hit_def>
+  <Hit_accession>XP_015861424</Hit_accession>
+  <Hit_len>139</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>278.1</Hsp_bit-score>
+      <Hsp_score>710</Hsp_score>
+      <Hsp_evalue>1.10928e-93</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>139</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>139</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>133</Hsp_identity>
+      <Hsp_positive>138</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>139</Hsp_align-len>
+      <Hsp_qseq>METDCNPMELSSMSGFEEGSELNGFEGTDMKDMRLEAEAVVNDVLFAVNNMFVSKSLRCADDVAYINVETKERNRYCLELTEAGLKVVGYAFDQVDDHLQTPYHETVYSLLDTLSPAYREAFGNALLQRLEALKRDGQS</Hsp_qseq>
+      <Hsp_hseq>MDTDCNPVELGSMSGFEEGSELNGFEGTDMKDMRLEAEAVVNDVLFAVNSMFVSKSLRCADDVAYINVETKERNRYCLELTEAGLRVVGYAFDQVEDHLQTPYHETVYSLLDTLSPAYREAFGNALLQRLEALKRDGQS</Hsp_hseq>
+      <Hsp_midline>M+TDCNP+EL SMSGFEEGSELNGFEGTDMKDMRLEAEAVVNDVLFAVN+MFVSKSLRCADDVAYINVETKERNRYCLELTEAGL+VVGYAFDQV+DHLQTPYHETVYSLLDTLSPAYREAFGNALLQRLEALKRDGQS</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>30</Hit_num>
+  <Hit_id>ref|XP_012967705.1|</Hit_id>
+  <Hit_def>GSK3B-interacting protein isoform X2 [Mesocricetus auratus] &gt;ref|XP_040598471.1| GSK3B-interacting protein isoform X2 [Mesocricetus auratus]</Hit_def>
+  <Hit_accession>XP_012967705</Hit_accession>
+  <Hit_len>142</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>278.1</Hsp_bit-score>
+      <Hsp_score>710</Hsp_score>
+      <Hsp_evalue>1.13751e-93</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>139</Hsp_query-to>
+      <Hsp_hit-from>4</Hsp_hit-from>
+      <Hsp_hit-to>142</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>134</Hsp_identity>
+      <Hsp_positive>138</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>139</Hsp_align-len>
+      <Hsp_qseq>METDCNPMELSSMSGFEEGSELNGFEGTDMKDMRLEAEAVVNDVLFAVNNMFVSKSLRCADDVAYINVETKERNRYCLELTEAGLKVVGYAFDQVDDHLQTPYHETVYSLLDTLSPAYREAFGNALLQRLEALKRDGQS</Hsp_qseq>
+      <Hsp_hseq>METDYNPVELSSMSGFEEGSELNGFEGTDMKDMRLEAEAVVNDVLFAVNSMFVSKSLRCADDVAYINVETKERNRYCLELTEAGLRVVGYAFDQVEDHLQTPYHETVYSLLDTLSPAYREAFGNALLQRLEALKRDGQS</Hsp_hseq>
+      <Hsp_midline>METD NP+ELSSMSGFEEGSELNGFEGTDMKDMRLEAEAVVNDVLFAVN+MFVSKSLRCADDVAYINVETKERNRYCLELTEAGL+VVGYAFDQV+DHLQTPYHETVYSLLDTLSPAYREAFGNALLQRLEALKRDGQS</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>31</Hit_num>
+  <Hit_id>ref|XP_027272140.1|</Hit_id>
+  <Hit_def>GSK3B-interacting protein isoform X5 [Cricetulus griseus] &gt;ref|XP_027272141.1| GSK3B-interacting protein isoform X5 [Cricetulus griseus] &gt;ref|XP_027272142.1| GSK3B-interacting protein isoform X5 [Cricetulus griseus] &gt;ref|XP_040598472.1| GSK3B-interacting protein isoform X3 [Mesocricetus auratus] &gt;ref|XP_040598473.1| GSK3B-interacting protein isoform X3 [Mesocricetus auratus] &gt;ref|XP_040598474.1| GSK3B-interacting protein isoform X3 [Mesocricetus auratus] &gt;ref|XP_040598475.1| GSK3B-interacting protein isoform X3 [Mesocricetus auratus] &gt;gb|ERE73389.1| GSK3-beta interaction protein [Cricetulus griseus]</Hit_def>
+  <Hit_accession>XP_027272140</Hit_accession>
+  <Hit_len>139</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>278.1</Hsp_bit-score>
+      <Hsp_score>710</Hsp_score>
+      <Hsp_evalue>1.14642e-93</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>139</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>139</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>134</Hsp_identity>
+      <Hsp_positive>138</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>139</Hsp_align-len>
+      <Hsp_qseq>METDCNPMELSSMSGFEEGSELNGFEGTDMKDMRLEAEAVVNDVLFAVNNMFVSKSLRCADDVAYINVETKERNRYCLELTEAGLKVVGYAFDQVDDHLQTPYHETVYSLLDTLSPAYREAFGNALLQRLEALKRDGQS</Hsp_qseq>
+      <Hsp_hseq>METDYNPVELSSMSGFEEGSELNGFEGTDMKDMRLEAEAVVNDVLFAVNSMFVSKSLRCADDVAYINVETKERNRYCLELTEAGLRVVGYAFDQVEDHLQTPYHETVYSLLDTLSPAYREAFGNALLQRLEALKRDGQS</Hsp_hseq>
+      <Hsp_midline>METD NP+ELSSMSGFEEGSELNGFEGTDMKDMRLEAEAVVNDVLFAVN+MFVSKSLRCADDVAYINVETKERNRYCLELTEAGL+VVGYAFDQV+DHLQTPYHETVYSLLDTLSPAYREAFGNALLQRLEALKRDGQS</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>32</Hit_num>
+  <Hit_id>ref|XP_046296480.1|</Hit_id>
+  <Hit_def>GSK3B-interacting protein isoform X2 [Marmota monax] &gt;ref|XP_071463654.1| GSK3B-interacting protein isoform X1 [Marmota flaviventris] &gt;gb|KAF7464781.1| GSK3-beta interaction protein [Marmota monax]</Hit_def>
+  <Hit_accession>XP_046296480</Hit_accession>
+  <Hit_len>150</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>278.485</Hsp_bit-score>
+      <Hsp_score>711</Hsp_score>
+      <Hsp_evalue>1.14799e-93</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>139</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>150</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>138</Hsp_identity>
+      <Hsp_positive>139</Hsp_positive>
+      <Hsp_gaps>11</Hsp_gaps>
+      <Hsp_align-len>150</Hsp_align-len>
+      <Hsp_qseq>METDCNPMELSSMSGFEEGSELNGFEGTDMKDMRLEAEAVVNDVLFAVNNMFVSKSLRCADDVAYINVETKERNRYCLELTEAGL-----------KVVGYAFDQVDDHLQTPYHETVYSLLDTLSPAYREAFGNALLQRLEALKRDGQS</Hsp_qseq>
+      <Hsp_hseq>METDCNPMELSSMSGFEEGSELNGFEGTDMKDMRLEAEAVVNDVLFAVNNMFVSKSLRCADDVAYINVETKERNRYCLELTEAGLRVTRFSSHTHPKVVGYAFDQVEDHLQTPYHETVYSLLDTLSPAYREAFGNALLQRLEALKRDGQS</Hsp_hseq>
+      <Hsp_midline>METDCNPMELSSMSGFEEGSELNGFEGTDMKDMRLEAEAVVNDVLFAVNNMFVSKSLRCADDVAYINVETKERNRYCLELTEAGL           KVVGYAFDQV+DHLQTPYHETVYSLLDTLSPAYREAFGNALLQRLEALKRDGQS</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>33</Hit_num>
+  <Hit_id>ref|XP_046296479.1|</Hit_id>
+  <Hit_def>GSK3B-interacting protein isoform X1 [Marmota monax] &gt;gb|KAF7464782.1| GSK3-beta interaction protein [Marmota monax]</Hit_def>
+  <Hit_accession>XP_046296479</Hit_accession>
+  <Hit_len>156</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>278.485</Hsp_bit-score>
+      <Hsp_score>711</Hsp_score>
+      <Hsp_evalue>1.30489e-93</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>139</Hsp_query-to>
+      <Hsp_hit-from>7</Hsp_hit-from>
+      <Hsp_hit-to>156</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>138</Hsp_identity>
+      <Hsp_positive>139</Hsp_positive>
+      <Hsp_gaps>11</Hsp_gaps>
+      <Hsp_align-len>150</Hsp_align-len>
+      <Hsp_qseq>METDCNPMELSSMSGFEEGSELNGFEGTDMKDMRLEAEAVVNDVLFAVNNMFVSKSLRCADDVAYINVETKERNRYCLELTEAGL-----------KVVGYAFDQVDDHLQTPYHETVYSLLDTLSPAYREAFGNALLQRLEALKRDGQS</Hsp_qseq>
+      <Hsp_hseq>METDCNPMELSSMSGFEEGSELNGFEGTDMKDMRLEAEAVVNDVLFAVNNMFVSKSLRCADDVAYINVETKERNRYCLELTEAGLRVTRFSSHTHPKVVGYAFDQVEDHLQTPYHETVYSLLDTLSPAYREAFGNALLQRLEALKRDGQS</Hsp_hseq>
+      <Hsp_midline>METDCNPMELSSMSGFEEGSELNGFEGTDMKDMRLEAEAVVNDVLFAVNNMFVSKSLRCADDVAYINVETKERNRYCLELTEAGL           KVVGYAFDQV+DHLQTPYHETVYSLLDTLSPAYREAFGNALLQRLEALKRDGQS</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>34</Hit_num>
+  <Hit_id>ref|XP_015350855.1|</Hit_id>
+  <Hit_def>GSK3B-interacting protein isoform X1 [Marmota marmota marmota]</Hit_def>
+  <Hit_accession>XP_015350855</Hit_accession>
+  <Hit_len>156</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>278.1</Hsp_bit-score>
+      <Hsp_score>710</Hsp_score>
+      <Hsp_evalue>1.53836e-93</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>139</Hsp_query-to>
+      <Hsp_hit-from>7</Hsp_hit-from>
+      <Hsp_hit-to>156</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>138</Hsp_identity>
+      <Hsp_positive>139</Hsp_positive>
+      <Hsp_gaps>11</Hsp_gaps>
+      <Hsp_align-len>150</Hsp_align-len>
+      <Hsp_qseq>METDCNPMELSSMSGFEEGSELNGFEGTDMKDMRLEAEAVVNDVLFAVNNMFVSKSLRCADDVAYINVETKERNRYCLELTEAGL-----------KVVGYAFDQVDDHLQTPYHETVYSLLDTLSPAYREAFGNALLQRLEALKRDGQS</Hsp_qseq>
+      <Hsp_hseq>METDCNPMELSSMSGFEEGSELNGFEGTDMKDMRLEAEAVVNDVLFAVNNMFVSKSLRCADDVAYINVETKERNRYCLELTEAGLRVTRFSSHTHPKVVGYAFDQVEDHLQTPYHETVYSLLDTLSPAYREAFGNALLQRLEALKRDGQS</Hsp_hseq>
+      <Hsp_midline>METDCNPMELSSMSGFEEGSELNGFEGTDMKDMRLEAEAVVNDVLFAVNNMFVSKSLRCADDVAYINVETKERNRYCLELTEAGL           KVVGYAFDQV+DHLQTPYHETVYSLLDTLSPAYREAFGNALLQRLEALKRDGQS</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>35</Hit_num>
+  <Hit_id>ref|XP_006762774.1|</Hit_id>
+  <Hit_def>PREDICTED: GSK3-beta interaction protein [Myotis davidii] &gt;ref|XP_006762775.1| PREDICTED: GSK3-beta interaction protein [Myotis davidii] &gt;ref|XP_015418731.1| PREDICTED: GSK3-beta interaction protein [Myotis davidii] &gt;ref|XP_036173530.1| GSK3B-interacting protein [Myotis myotis] &gt;ref|XP_036173539.1| GSK3B-interacting protein [Myotis myotis] &gt;ref|XP_036173549.1| GSK3B-interacting protein [Myotis myotis] &gt;ref|XP_036173556.1| GSK3B-interacting protein [Myotis myotis] &gt;ref|XP_059542027.1| GSK3B-interacting protein [Myotis daubentonii] &gt;ref|XP_059542031.1| GSK3B-interacting protein [Myotis daubentonii] &gt;ref|XP_059542034.1| GSK3B-interacting protein [Myotis daubentonii] &gt;ref|XP_059542037.1| GSK3B-interacting protein [Myotis daubentonii]</Hit_def>
+  <Hit_accession>XP_006762774</Hit_accession>
+  <Hit_len>139</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>277.33</Hsp_bit-score>
+      <Hsp_score>708</Hsp_score>
+      <Hsp_evalue>2.09659e-93</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>139</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>139</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>131</Hsp_identity>
+      <Hsp_positive>137</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>139</Hsp_align-len>
+      <Hsp_qseq>METDCNPMELSSMSGFEEGSELNGFEGTDMKDMRLEAEAVVNDVLFAVNNMFVSKSLRCADDVAYINVETKERNRYCLELTEAGLKVVGYAFDQVDDHLQTPYHETVYSLLDTLSPAYREAFGNALLQRLEALKRDGQS</Hsp_qseq>
+      <Hsp_hseq>METDCNPMELSSMSGYEENAELNGFEGTDMKDMRLEAEAVVNDVLFAVNTMFVSKALRCADDVAYINVETRERNRYCLELTEAGLKIVGYAFDQVDDHLQSPYHETVYSLLDTLSPAYREAFGNALLQRLEALKRDGQS</Hsp_hseq>
+      <Hsp_midline>METDCNPMELSSMSG+EE +ELNGFEGTDMKDMRLEAEAVVNDVLFAVN MFVSK+LRCADDVAYINVET+ERNRYCLELTEAGLK+VGYAFDQVDDHLQ+PYHETVYSLLDTLSPAYREAFGNALLQRLEALKRDGQS</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>36</Hit_num>
+  <Hit_id>ref|XP_040598470.1|</Hit_id>
+  <Hit_def>GSK3B-interacting protein isoform X1 [Mesocricetus auratus]</Hit_def>
+  <Hit_accession>XP_040598470</Hit_accession>
+  <Hit_len>174</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>278.485</Hsp_bit-score>
+      <Hsp_score>711</Hsp_score>
+      <Hsp_evalue>2.14148e-93</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>139</Hsp_query-to>
+      <Hsp_hit-from>36</Hsp_hit-from>
+      <Hsp_hit-to>174</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>134</Hsp_identity>
+      <Hsp_positive>138</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>139</Hsp_align-len>
+      <Hsp_qseq>METDCNPMELSSMSGFEEGSELNGFEGTDMKDMRLEAEAVVNDVLFAVNNMFVSKSLRCADDVAYINVETKERNRYCLELTEAGLKVVGYAFDQVDDHLQTPYHETVYSLLDTLSPAYREAFGNALLQRLEALKRDGQS</Hsp_qseq>
+      <Hsp_hseq>METDYNPVELSSMSGFEEGSELNGFEGTDMKDMRLEAEAVVNDVLFAVNSMFVSKSLRCADDVAYINVETKERNRYCLELTEAGLRVVGYAFDQVEDHLQTPYHETVYSLLDTLSPAYREAFGNALLQRLEALKRDGQS</Hsp_hseq>
+      <Hsp_midline>METD NP+ELSSMSGFEEGSELNGFEGTDMKDMRLEAEAVVNDVLFAVN+MFVSKSLRCADDVAYINVETKERNRYCLELTEAGL+VVGYAFDQV+DHLQTPYHETVYSLLDTLSPAYREAFGNALLQRLEALKRDGQS</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>37</Hit_num>
+  <Hit_id>ref|XP_027272138.1|</Hit_id>
+  <Hit_def>GSK3B-interacting protein isoform X3 [Cricetulus griseus]</Hit_def>
+  <Hit_accession>XP_027272138</Hit_accession>
+  <Hit_len>173</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>278.485</Hsp_bit-score>
+      <Hsp_score>711</Hsp_score>
+      <Hsp_evalue>2.23455e-93</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>139</Hsp_query-to>
+      <Hsp_hit-from>35</Hsp_hit-from>
+      <Hsp_hit-to>173</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>134</Hsp_identity>
+      <Hsp_positive>138</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>139</Hsp_align-len>
+      <Hsp_qseq>METDCNPMELSSMSGFEEGSELNGFEGTDMKDMRLEAEAVVNDVLFAVNNMFVSKSLRCADDVAYINVETKERNRYCLELTEAGLKVVGYAFDQVDDHLQTPYHETVYSLLDTLSPAYREAFGNALLQRLEALKRDGQS</Hsp_qseq>
+      <Hsp_hseq>METDYNPVELSSMSGFEEGSELNGFEGTDMKDMRLEAEAVVNDVLFAVNSMFVSKSLRCADDVAYINVETKERNRYCLELTEAGLRVVGYAFDQVEDHLQTPYHETVYSLLDTLSPAYREAFGNALLQRLEALKRDGQS</Hsp_hseq>
+      <Hsp_midline>METD NP+ELSSMSGFEEGSELNGFEGTDMKDMRLEAEAVVNDVLFAVN+MFVSKSLRCADDVAYINVETKERNRYCLELTEAGL+VVGYAFDQV+DHLQTPYHETVYSLLDTLSPAYREAFGNALLQRLEALKRDGQS</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>38</Hit_num>
+  <Hit_id>gb|ELK31032.1|</Hit_id>
+  <Hit_def>GSK3-beta interaction protein [Myotis davidii]</Hit_def>
+  <Hit_accession>ELK31032</Hit_accession>
+  <Hit_len>181</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>278.87</Hsp_bit-score>
+      <Hsp_score>712</Hsp_score>
+      <Hsp_evalue>2.38589e-93</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>139</Hsp_query-to>
+      <Hsp_hit-from>43</Hsp_hit-from>
+      <Hsp_hit-to>181</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>131</Hsp_identity>
+      <Hsp_positive>137</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>139</Hsp_align-len>
+      <Hsp_qseq>METDCNPMELSSMSGFEEGSELNGFEGTDMKDMRLEAEAVVNDVLFAVNNMFVSKSLRCADDVAYINVETKERNRYCLELTEAGLKVVGYAFDQVDDHLQTPYHETVYSLLDTLSPAYREAFGNALLQRLEALKRDGQS</Hsp_qseq>
+      <Hsp_hseq>METDCNPMELSSMSGYEENAELNGFEGTDMKDMRLEAEAVVNDVLFAVNTMFVSKALRCADDVAYINVETRERNRYCLELTEAGLKIVGYAFDQVDDHLQSPYHETVYSLLDTLSPAYREAFGNALLQRLEALKRDGQS</Hsp_hseq>
+      <Hsp_midline>METDCNPMELSSMSG+EE +ELNGFEGTDMKDMRLEAEAVVNDVLFAVN MFVSK+LRCADDVAYINVET+ERNRYCLELTEAGLK+VGYAFDQVDDHLQ+PYHETVYSLLDTLSPAYREAFGNALLQRLEALKRDGQS</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>39</Hit_num>
+  <Hit_id>sp|Q5PPI3.1|</Hit_id>
+  <Hit_def>RecName: Full=GSK3B-interacting protein; Short=GSKIP [Rattus norvegicus] &gt;gb|AAH87681.1| Similar to RIKEN cDNA 4933433P14 gene [Rattus norvegicus]</Hit_def>
+  <Hit_accession>Q5PPI3</Hit_accession>
+  <Hit_len>139</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>276.944</Hsp_bit-score>
+      <Hsp_score>707</Hsp_score>
+      <Hsp_evalue>2.75856e-93</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>139</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>139</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>133</Hsp_identity>
+      <Hsp_positive>138</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>139</Hsp_align-len>
+      <Hsp_qseq>METDCNPMELSSMSGFEEGSELNGFEGTDMKDMRLEAEAVVNDVLFAVNNMFVSKSLRCADDVAYINVETKERNRYCLELTEAGLKVVGYAFDQVDDHLQTPYHETVYSLLDTLSPAYREAFGNALLQRLEALKRDGQS</Hsp_qseq>
+      <Hsp_hseq>METDCNPVDLSSMSGFEEGSELNGFEGTDMKDMQLEAEAVVNDVLFAVNNMFVSKSLPCADDVAYINVETKERNRYCLELTEAGLRVVGYAFDQVEDHLQTPYHETVYSLLDTLSPAYREAFGNALLQRLEALKRDGQS</Hsp_hseq>
+      <Hsp_midline>METDCNP++LSSMSGFEEGSELNGFEGTDMKDM+LEAEAVVNDVLFAVNNMFVSKSL CADDVAYINVETKERNRYCLELTEAGL+VVGYAFDQV+DHLQTPYHETVYSLLDTLSPAYREAFGNALLQRLEALKRDGQS</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>40</Hit_num>
+  <Hit_id>ref|NP_001014220.2|</Hit_id>
+  <Hit_def>GSK3B-interacting protein [Rattus norvegicus] &gt;ref|XP_032764271.1| GSK3B-interacting protein [Rattus rattus] &gt;gb|EDL97598.1| similar to RIKEN cDNA 4933433P14 gene [Rattus norvegicus]</Hit_def>
+  <Hit_accession>NP_001014220</Hit_accession>
+  <Hit_len>144</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>276.944</Hsp_bit-score>
+      <Hsp_score>707</Hsp_score>
+      <Hsp_evalue>2.77326e-93</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>139</Hsp_query-to>
+      <Hsp_hit-from>6</Hsp_hit-from>
+      <Hsp_hit-to>144</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>133</Hsp_identity>
+      <Hsp_positive>138</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>139</Hsp_align-len>
+      <Hsp_qseq>METDCNPMELSSMSGFEEGSELNGFEGTDMKDMRLEAEAVVNDVLFAVNNMFVSKSLRCADDVAYINVETKERNRYCLELTEAGLKVVGYAFDQVDDHLQTPYHETVYSLLDTLSPAYREAFGNALLQRLEALKRDGQS</Hsp_qseq>
+      <Hsp_hseq>METDCNPVDLSSMSGFEEGSELNGFEGTDMKDMQLEAEAVVNDVLFAVNNMFVSKSLPCADDVAYINVETKERNRYCLELTEAGLRVVGYAFDQVEDHLQTPYHETVYSLLDTLSPAYREAFGNALLQRLEALKRDGQS</Hsp_hseq>
+      <Hsp_midline>METDCNP++LSSMSGFEEGSELNGFEGTDMKDM+LEAEAVVNDVLFAVNNMFVSKSL CADDVAYINVETKERNRYCLELTEAGL+VVGYAFDQV+DHLQTPYHETVYSLLDTLSPAYREAFGNALLQRLEALKRDGQS</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>41</Hit_num>
+  <Hit_id>ref|XP_027985887.2|</Hit_id>
+  <Hit_def>GSK3B-interacting protein isoform X4 [Eptesicus fuscus] &gt;ref|XP_027985888.2| GSK3B-interacting protein isoform X4 [Eptesicus fuscus]</Hit_def>
+  <Hit_accession>XP_027985887</Hit_accession>
+  <Hit_len>139</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>276.944</Hsp_bit-score>
+      <Hsp_score>707</Hsp_score>
+      <Hsp_evalue>2.8509e-93</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>139</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>139</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>131</Hsp_identity>
+      <Hsp_positive>137</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>139</Hsp_align-len>
+      <Hsp_qseq>METDCNPMELSSMSGFEEGSELNGFEGTDMKDMRLEAEAVVNDVLFAVNNMFVSKSLRCADDVAYINVETKERNRYCLELTEAGLKVVGYAFDQVDDHLQTPYHETVYSLLDTLSPAYREAFGNALLQRLEALKRDGQS</Hsp_qseq>
+      <Hsp_hseq>METDCNPMELSSMSGFEENAELNGFEGTDMKDMRLEAEAVVNDVLFAVNTMFVSKTLRCADDVAYINVETRERNRYCLELTEAGLKIVGYAFDEVDDHLQSPYHETVYSLLDTLSPAYREAFGNALLQRLEALKRDGQS</Hsp_hseq>
+      <Hsp_midline>METDCNPMELSSMSGFEE +ELNGFEGTDMKDMRLEAEAVVNDVLFAVN MFVSK+LRCADDVAYINVET+ERNRYCLELTEAGLK+VGYAFD+VDDHLQ+PYHETVYSLLDTLSPAYREAFGNALLQRLEALKRDGQS</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>42</Hit_num>
+  <Hit_id>ref|XP_007447391.1|</Hit_id>
+  <Hit_def>PREDICTED: GSK3-beta interaction protein [Lipotes vexillifer] &gt;ref|XP_019773872.1| GSK3B-interacting protein isoform X2 [Tursiops truncatus] &gt;ref|XP_024614905.1| GSK3B-interacting protein isoform X2 [Neophocaena asiaeorientalis asiaeorientalis] &gt;ref|XP_026976297.1| GSK3B-interacting protein isoform X2 [Sagmatias obliquidens] &gt;ref|XP_032479609.1| GSK3B-interacting protein isoform X2 [Phocoena sinus] &gt;ref|XP_033275643.1| GSK3B-interacting protein isoform X2 [Orcinus orca] &gt;ref|XP_049561372.1| GSK3B-interacting protein isoform X2 [Orcinus orca] &gt;ref|XP_059859941.1| GSK3B-interacting protein isoform X2 [Delphinus delphis] &gt;ref|XP_059953885.1| GSK3B-interacting protein isoform X2 [Mesoplodon densirostris] &gt;ref|XP_059953886.1| GSK3B-interacting protein isoform X2 [Mesoplodon densirostris] &gt;ref|XP_059953887.1| GSK3B-interacting protein isoform X2 [Mesoplodon densirostris] &gt;ref|XP_059953888.1| GSK3B-interacting protein isoform X2 [Mesoplodon densirostris] &gt;ref|XP_060021490.1| GSK3B-interacting protein isoform X2 [Lagenorhynchus albirostris] &gt;ref|XP_060021494.1| GSK3B-interacting protein isoform X2 [Lagenorhynchus albirostris] &gt;ref|XP_060021498.1| GSK3B-interacting protein isoform X2 [Lagenorhynchus albirostris] &gt;ref|XP_060021500.1| GSK3B-interacting protein isoform X2 [Lagenorhynchus albirostris] &gt;ref|XP_060151238.1| GSK3B-interacting protein isoform X2 [Globicephala melas] &gt;ref|XP_065728229.1| GSK3B-interacting protein [Phocoena phocoena] &gt;ref|XP_067582490.1| GSK3B-interacting protein isoform X2 [Pseudorca crassidens] &gt;ref|XP_067582500.1| GSK3B-interacting protein isoform X2 [Pseudorca crassidens] &gt;ref|XP_069901105.1| GSK3B-interacting protein isoform X2 [Globicephala melas]</Hit_def>
+  <Hit_accession>XP_007447391</Hit_accession>
+  <Hit_len>139</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>276.944</Hsp_bit-score>
+      <Hsp_score>707</Hsp_score>
+      <Hsp_evalue>3.01173e-93</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>139</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>139</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>132</Hsp_identity>
+      <Hsp_positive>137</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>139</Hsp_align-len>
+      <Hsp_qseq>METDCNPMELSSMSGFEEGSELNGFEGTDMKDMRLEAEAVVNDVLFAVNNMFVSKSLRCADDVAYINVETKERNRYCLELTEAGLKVVGYAFDQVDDHLQTPYHETVYSLLDTLSPAYREAFGNALLQRLEALKRDGQS</Hsp_qseq>
+      <Hsp_hseq>METDCNPMELSSVSGFEEDAELNGFEGTDMKDMRLEAEAVVNDVLFAVNTMFVSKTLRCADDVAYINVETRERNRYCLELTEAGLRVVGYAFDQVDDHLQTPYHETVYSLLDTLSPAYREAFGNALLQRLEALKRDGQS</Hsp_hseq>
+      <Hsp_midline>METDCNPMELSS+SGFEE +ELNGFEGTDMKDMRLEAEAVVNDVLFAVN MFVSK+LRCADDVAYINVET+ERNRYCLELTEAGL+VVGYAFDQVDDHLQTPYHETVYSLLDTLSPAYREAFGNALLQRLEALKRDGQS</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>43</Hit_num>
+  <Hit_id>ref|XP_036738210.1|</Hit_id>
+  <Hit_def>GSK3B-interacting protein isoform X1 [Manis pentadactyla]</Hit_def>
+  <Hit_accession>XP_036738210</Hit_accession>
+  <Hit_len>141</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>276.559</Hsp_bit-score>
+      <Hsp_score>706</Hsp_score>
+      <Hsp_evalue>3.92748e-93</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>139</Hsp_query-to>
+      <Hsp_hit-from>3</Hsp_hit-from>
+      <Hsp_hit-to>141</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>132</Hsp_identity>
+      <Hsp_positive>138</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>139</Hsp_align-len>
+      <Hsp_qseq>METDCNPMELSSMSGFEEGSELNGFEGTDMKDMRLEAEAVVNDVLFAVNNMFVSKSLRCADDVAYINVETKERNRYCLELTEAGLKVVGYAFDQVDDHLQTPYHETVYSLLDTLSPAYREAFGNALLQRLEALKRDGQS</Hsp_qseq>
+      <Hsp_hseq>METDCNPMELSSVSGFEEDAELNGFEGTDVKDMRLEAEAVVNDVLFAVNSMFVSKSLRCADDVAYINVETRERNRYCLELTEAGLRVVGYAFDQVDDHLQTPYHETVYSLLDTLSPAYREAFGNALLQRLEALKRDGQS</Hsp_hseq>
+      <Hsp_midline>METDCNPMELSS+SGFEE +ELNGFEGTD+KDMRLEAEAVVNDVLFAVN+MFVSKSLRCADDVAYINVET+ERNRYCLELTEAGL+VVGYAFDQVDDHLQTPYHETVYSLLDTLSPAYREAFGNALLQRLEALKRDGQS</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>44</Hit_num>
+  <Hit_id>ref|XP_036738211.1|</Hit_id>
+  <Hit_def>GSK3B-interacting protein isoform X2 [Manis pentadactyla] &gt;ref|XP_036738212.1| GSK3B-interacting protein isoform X2 [Manis pentadactyla]</Hit_def>
+  <Hit_accession>XP_036738211</Hit_accession>
+  <Hit_len>139</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>276.174</Hsp_bit-score>
+      <Hsp_score>705</Hsp_score>
+      <Hsp_evalue>4.82819e-93</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>139</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>139</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>132</Hsp_identity>
+      <Hsp_positive>138</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>139</Hsp_align-len>
+      <Hsp_qseq>METDCNPMELSSMSGFEEGSELNGFEGTDMKDMRLEAEAVVNDVLFAVNNMFVSKSLRCADDVAYINVETKERNRYCLELTEAGLKVVGYAFDQVDDHLQTPYHETVYSLLDTLSPAYREAFGNALLQRLEALKRDGQS</Hsp_qseq>
+      <Hsp_hseq>METDCNPMELSSVSGFEEDAELNGFEGTDVKDMRLEAEAVVNDVLFAVNSMFVSKSLRCADDVAYINVETRERNRYCLELTEAGLRVVGYAFDQVDDHLQTPYHETVYSLLDTLSPAYREAFGNALLQRLEALKRDGQS</Hsp_hseq>
+      <Hsp_midline>METDCNPMELSS+SGFEE +ELNGFEGTD+KDMRLEAEAVVNDVLFAVN+MFVSKSLRCADDVAYINVET+ERNRYCLELTEAGL+VVGYAFDQVDDHLQTPYHETVYSLLDTLSPAYREAFGNALLQRLEALKRDGQS</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>45</Hit_num>
+  <Hit_id>ref|XP_020036575.1|</Hit_id>
+  <Hit_def>GSK3B-interacting protein [Castor canadensis] &gt;ref|XP_020036576.1| GSK3B-interacting protein [Castor canadensis]</Hit_def>
+  <Hit_accession>XP_020036575</Hit_accession>
+  <Hit_len>139</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>276.174</Hsp_bit-score>
+      <Hsp_score>705</Hsp_score>
+      <Hsp_evalue>5.44776e-93</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>139</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>139</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>132</Hsp_identity>
+      <Hsp_positive>138</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>139</Hsp_align-len>
+      <Hsp_qseq>METDCNPMELSSMSGFEEGSELNGFEGTDMKDMRLEAEAVVNDVLFAVNNMFVSKSLRCADDVAYINVETKERNRYCLELTEAGLKVVGYAFDQVDDHLQTPYHETVYSLLDTLSPAYREAFGNALLQRLEALKRDGQS</Hsp_qseq>
+      <Hsp_hseq>MESNCNPMELSSMAGFEEGSELNGFEGTDVKDMRLEAEAVVNDVLFAVSNMFVSKSLRCADDVAYINVETKERNRYCLELTEAGLRVVGYAFDQVDDRLQTPYHETVYSLLDTLSPAYREAFGNALLQRLEALKRDGQS</Hsp_hseq>
+      <Hsp_midline>ME++CNPMELSSM+GFEEGSELNGFEGTD+KDMRLEAEAVVNDVLFAV+NMFVSKSLRCADDVAYINVETKERNRYCLELTEAGL+VVGYAFDQVDD LQTPYHETVYSLLDTLSPAYREAFGNALLQRLEALKRDGQS</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>46</Hit_num>
+  <Hit_id>ref|XP_059135696.1|</Hit_id>
+  <Hit_def>GSK3B-interacting protein isoform X1 [Peromyscus eremicus]</Hit_def>
+  <Hit_accession>XP_059135696</Hit_accession>
+  <Hit_len>172</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>277.33</Hsp_bit-score>
+      <Hsp_score>708</Hsp_score>
+      <Hsp_evalue>5.54679e-93</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>139</Hsp_query-to>
+      <Hsp_hit-from>34</Hsp_hit-from>
+      <Hsp_hit-to>172</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>132</Hsp_identity>
+      <Hsp_positive>136</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>139</Hsp_align-len>
+      <Hsp_qseq>METDCNPMELSSMSGFEEGSELNGFEGTDMKDMRLEAEAVVNDVLFAVNNMFVSKSLRCADDVAYINVETKERNRYCLELTEAGLKVVGYAFDQVDDHLQTPYHETVYSLLDTLSPAYREAFGNALLQRLEALKRDGQS</Hsp_qseq>
+      <Hsp_hseq>METDCNPVELGSMSGFEESSELNGFEGTDMKDMRLEAEAVVNDVLFAVNSMFVSKSLRCADDVAYINVETKERNRYCLELTEAGLRVVGYGFDQVEDHLQTPYHETVYSLLDTLSPAYREAFGNALLQRLEALKRDGQS</Hsp_hseq>
+      <Hsp_midline>METDCNP+EL SMSGFEE SELNGFEGTDMKDMRLEAEAVVNDVLFAVN+MFVSKSLRCADDVAYINVETKERNRYCLELTEAGL+VVGY FDQV+DHLQTPYHETVYSLLDTLSPAYREAFGNALLQRLEALKRDGQS</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>47</Hit_num>
+  <Hit_id>ref|XP_005868600.1|</Hit_id>
+  <Hit_def>PREDICTED: GSK3-beta interaction protein isoform X2 [Myotis brandtii] &gt;ref|XP_005868601.1| PREDICTED: GSK3-beta interaction protein isoform X2 [Myotis brandtii]</Hit_def>
+  <Hit_accession>XP_005868600</Hit_accession>
+  <Hit_len>139</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>276.174</Hsp_bit-score>
+      <Hsp_score>705</Hsp_score>
+      <Hsp_evalue>5.56867e-93</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>139</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>139</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>131</Hsp_identity>
+      <Hsp_positive>136</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>139</Hsp_align-len>
+      <Hsp_qseq>METDCNPMELSSMSGFEEGSELNGFEGTDMKDMRLEAEAVVNDVLFAVNNMFVSKSLRCADDVAYINVETKERNRYCLELTEAGLKVVGYAFDQVDDHLQTPYHETVYSLLDTLSPAYREAFGNALLQRLEALKRDGQS</Hsp_qseq>
+      <Hsp_hseq>METDCNPMELSSMSGYEENAELNGFEGTDMKDMRLEAEAVVNDVLFAVNTMFVSKVLRCADDVAYINVETRERNRYCLELTEAGLKIVGYAFDQVDDHLQSPYHETVYSLLDTLSPAYREAFGNALLQRLEALKRDGQS</Hsp_hseq>
+      <Hsp_midline>METDCNPMELSSMSG+EE +ELNGFEGTDMKDMRLEAEAVVNDVLFAVN MFVSK LRCADDVAYINVET+ERNRYCLELTEAGLK+VGYAFDQVDDHLQ+PYHETVYSLLDTLSPAYREAFGNALLQRLEALKRDGQS</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>48</Hit_num>
+  <Hit_id>ref|XP_014396967.1|</Hit_id>
+  <Hit_def>PREDICTED: GSK3-beta interaction protein isoform X1 [Myotis brandtii]</Hit_def>
+  <Hit_accession>XP_014396967</Hit_accession>
+  <Hit_len>140</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>276.174</Hsp_bit-score>
+      <Hsp_score>705</Hsp_score>
+      <Hsp_evalue>5.63586e-93</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>139</Hsp_query-to>
+      <Hsp_hit-from>2</Hsp_hit-from>
+      <Hsp_hit-to>140</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>131</Hsp_identity>
+      <Hsp_positive>136</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>139</Hsp_align-len>
+      <Hsp_qseq>METDCNPMELSSMSGFEEGSELNGFEGTDMKDMRLEAEAVVNDVLFAVNNMFVSKSLRCADDVAYINVETKERNRYCLELTEAGLKVVGYAFDQVDDHLQTPYHETVYSLLDTLSPAYREAFGNALLQRLEALKRDGQS</Hsp_qseq>
+      <Hsp_hseq>METDCNPMELSSMSGYEENAELNGFEGTDMKDMRLEAEAVVNDVLFAVNTMFVSKVLRCADDVAYINVETRERNRYCLELTEAGLKIVGYAFDQVDDHLQSPYHETVYSLLDTLSPAYREAFGNALLQRLEALKRDGQS</Hsp_hseq>
+      <Hsp_midline>METDCNPMELSSMSG+EE +ELNGFEGTDMKDMRLEAEAVVNDVLFAVN MFVSK LRCADDVAYINVET+ERNRYCLELTEAGLK+VGYAFDQVDDHLQ+PYHETVYSLLDTLSPAYREAFGNALLQRLEALKRDGQS</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>49</Hit_num>
+  <Hit_id>ref|XP_066132243.1|</Hit_id>
+  <Hit_def>GSK3B-interacting protein isoform X2 [Saccopteryx bilineata] &gt;ref|XP_066132244.1| GSK3B-interacting protein isoform X2 [Saccopteryx bilineata] &gt;ref|XP_066132245.1| GSK3B-interacting protein isoform X2 [Saccopteryx bilineata] &gt;ref|XP_066132247.1| GSK3B-interacting protein isoform X2 [Saccopteryx bilineata] &gt;ref|XP_066198566.1| GSK3B-interacting protein isoform X2 [Saccopteryx leptura] &gt;ref|XP_066198567.1| GSK3B-interacting protein isoform X2 [Saccopteryx leptura] &gt;ref|XP_066198568.1| GSK3B-interacting protein isoform X2 [Saccopteryx leptura] &gt;ref|XP_066198569.1| GSK3B-interacting protein isoform X2 [Saccopteryx leptura]</Hit_def>
+  <Hit_accession>XP_066132243</Hit_accession>
+  <Hit_len>139</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>276.174</Hsp_bit-score>
+      <Hsp_score>705</Hsp_score>
+      <Hsp_evalue>5.69226e-93</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>139</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>139</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>131</Hsp_identity>
+      <Hsp_positive>137</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>139</Hsp_align-len>
+      <Hsp_qseq>METDCNPMELSSMSGFEEGSELNGFEGTDMKDMRLEAEAVVNDVLFAVNNMFVSKSLRCADDVAYINVETKERNRYCLELTEAGLKVVGYAFDQVDDHLQTPYHETVYSLLDTLSPAYREAFGNALLQRLEALKRDGQS</Hsp_qseq>
+      <Hsp_hseq>METDCNPVELSSMSGFEENAEMNGFEGTDMKDMRLEAEAVVNDVLFAVNNMFVSKTLRCADDVAYINVETRERNRYCLELTEAGLKVVGYAFDQVDDHLHTPYHETVYSLLDTLSPAYRDAFGNALLQRLEALKRDGQS</Hsp_hseq>
+      <Hsp_midline>METDCNP+ELSSMSGFEE +E+NGFEGTDMKDMRLEAEAVVNDVLFAVNNMFVSK+LRCADDVAYINVET+ERNRYCLELTEAGLKVVGYAFDQVDDHL TPYHETVYSLLDTLSPAYR+AFGNALLQRLEALKRDGQS</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>50</Hit_num>
+  <Hit_id>ref|XP_062037440.1|</Hit_id>
+  <Hit_def>GSK3B-interacting protein [Lepus europaeus] &gt;ref|XP_062037441.1| GSK3B-interacting protein [Lepus europaeus] &gt;ref|XP_062037442.1| GSK3B-interacting protein [Lepus europaeus]</Hit_def>
+  <Hit_accession>XP_062037440</Hit_accession>
+  <Hit_len>139</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>276.174</Hsp_bit-score>
+      <Hsp_score>705</Hsp_score>
+      <Hsp_evalue>5.88281e-93</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>139</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>139</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>132</Hsp_identity>
+      <Hsp_positive>138</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>139</Hsp_align-len>
+      <Hsp_qseq>METDCNPMELSSMSGFEEGSELNGFEGTDMKDMRLEAEAVVNDVLFAVNNMFVSKSLRCADDVAYINVETKERNRYCLELTEAGLKVVGYAFDQVDDHLQTPYHETVYSLLDTLSPAYREAFGNALLQRLEALKRDGQS</Hsp_qseq>
+      <Hsp_hseq>METDCNPMELSSMSGFEDSSDLNGFEGTDMKDMRLEAEAVVNDVLFAVNNMFVSKSLRCADDVAYINVETKERNQYCLELTEAGLRVVGYAFDQVDDHLQTPYYETVYSLLDTLSPAYRDAFGNALLQRLEALKRDGQS</Hsp_hseq>
+      <Hsp_midline>METDCNPMELSSMSGFE+ S+LNGFEGTDMKDMRLEAEAVVNDVLFAVNNMFVSKSLRCADDVAYINVETKERN+YCLELTEAGL+VVGYAFDQVDDHLQTPY+ETVYSLLDTLSPAYR+AFGNALLQRLEALKRDGQS</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>992672285</Statistics_db-num>
+      <Statistics_db-len>377385951225</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>0</Statistics_eff-space>
+      <Statistics_kappa>0.041</Statistics_kappa>
+      <Statistics_lambda>0.267</Statistics_lambda>
+      <Statistics_entropy>0.14</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+</Iteration>
+</BlastOutput_iterations>
+</BlastOutput>
